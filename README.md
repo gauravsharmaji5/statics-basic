@@ -1,0 +1,2 @@
+# statics-basic
+statics basic
